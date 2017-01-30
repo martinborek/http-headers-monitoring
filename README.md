@@ -1,4 +1,4 @@
-# http-headers-monitoring
+# HTTP headers monitoring
 Application for HTTP headers monitoring, developed for the course "Network Applications and Network Administration", taken at Brno University of Technology in 2014.
 
 Author: Martin Borek
